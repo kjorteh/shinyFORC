@@ -2078,11 +2078,3 @@ server <- function(input, output, session) {
 
 
 shinyApp(ui, server)
-
-## NEXT: 
-
-
-### TO DO STILL ####
-# make gcm page two columns of options since there's no output there?
-
-# strip off individual effect of member models to see table with CIs and probabilities effects are greater or less than 0 (actually do this)
